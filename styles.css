@@ -1,4 +1,11 @@
 * {
 	color: rgb(33, 34, 34);
 	background-color: bisque;
+	list-style-type: upper-roman;
+}
+
+.bold {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
 }
